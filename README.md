@@ -1,7 +1,3 @@
-# Kosette-Transitions
-Wipe files for kdenlive
-
-
  Kosette Transitions for the Kdenlive
 =================================
 ![Kosette Transition](https://github.com/andeon/Kosette-Transitions/blob/master/screenshot.png?raw=true)
