@@ -13,3 +13,8 @@ Installation
 1. Copy the Kosette files into the ~/.kde/share/apps/kdenlive/pgm/ folder of your Kdenlive installation.
 2. Start the Kosette and adjust clips in the timeline so that the end of one overlaps the beginning of another. 
 3. Then right-click in the timeline at the overlap point, select Add Transition "wipe" and then choose one of the imagens from the flyout. 
+
+
+Kosette demo on youtube
+----------
+https://youtu.be/hEZw10YMkio
