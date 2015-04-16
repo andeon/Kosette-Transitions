@@ -4,7 +4,7 @@ Wipe files for kdenlive
 
  Kosette Transitions for the Kdenlive
 =================================
-![Graublau Icon Theme](https://github.com/andeon/Kosette-Transitions/blob/master/screenshot.png?raw=true)
+(https://github.com/andeon/Kosette-Transitions/blob/master/screenshot.png?raw=true)
 
 Authors & License
 -----------------
