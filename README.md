@@ -1,6 +1,6 @@
  Kosette Transitions for the Kdenlive
 =================================
-![Kosette Transition](https://github.com/andeon/Kosette-Transitions/blob/master/screenshot.png?raw=true)
+![Kosette Transition](https://github.com/andeon/Kosette-Transitions/blob/master/screenshot.jpg)
 
 Authors & License
 -----------------
