@@ -18,4 +18,4 @@ Installation
 
 Kosette demo on youtube
 ----------
-https://youtu.be/hEZw10YMkio
+https://youtu.be/5FsPuSjDGT0
